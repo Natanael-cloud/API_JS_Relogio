@@ -30,5 +30,6 @@ const PORT = 4000;
 app.listen(PORT, () => {
   // Exibe uma mensagem no console indicando que o servidor está rodando e em qual porta ele está escutando.
   console.log(`Servidor rodando na porta ${PORT}`);
+  
 });
 
